@@ -1,4 +1,4 @@
-baseURL = "https://joshadams.dev/"
+baseURL = "https://spudmillions.github.io/joshadams.dev/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
