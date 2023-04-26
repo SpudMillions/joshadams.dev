@@ -1,4 +1,4 @@
-baseURL = "https://joshadams.dev"
+baseURL = "https://spudmillions.github.io/joshadams.dev/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -215,8 +215,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    GitHub = "https://github.com/SpudMillions"
-    Linkedin = "https://www.linkedin.com/in/jadams8/"
+    GitHub = "SpudMillions"
+    Linkedin = "jadams8/"
     Twitter = ""
     Instagram = ""
     Facebook = ""
@@ -234,7 +234,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Codepen = ""
     FreeCodeCamp = ""
     Bitbucket = ""
-    Stackoverflow = "https://stackoverflow.com/users/8382067/josh-adams"
+    Stackoverflow = "8382067/josh-adams"
     Weibo = ""
     Odnoklassniki = ""
     VK = ""
